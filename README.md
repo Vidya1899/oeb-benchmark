@@ -88,8 +88,8 @@ complete and runnable on any probability file.
   author       = {Ganesh, Vidya and Sethuraman, T. V. and Britto, Aylmer and Ragunathan, Sibi Anitha},
   title        = {Observational Entropy Benchmark (OEB): video manifest, labels, and evaluation code},
   year         = {2026},
-  howpublished = {\url{https://github.com/USERNAME/oeb-benchmark}},
-  note         = {Accessed 2026-XX-XX}
+  howpublished = {\url{https://github.com/Vidya1899/oeb-benchmark}},
+  note         = {Accessed 2026-07-07}
 }
 ```
 
